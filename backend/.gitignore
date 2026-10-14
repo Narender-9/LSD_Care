@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Datasets
+dataset/
+dataset_new/
+merged_dataset/
+new_datasets/
+healthy/
+infected/
+
+# Backup
+LSD_Project_BACKUP/
+
+# Test files
+test_image.png
+cow_image.png
+
+# YOLO generated files
+runs/
+
+# Local environment
+.venv/
+venv/
+env/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
